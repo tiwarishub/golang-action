@@ -2,8 +2,8 @@ name: 'Golang Action1'
 description: 'Run Golang commands'
 author: '@cedrickring'
 runs:
-  using: 'docker'
-  image: 'Dockerfile'
+  using1: 'docker'
+  image2: 'Dockerfile'
 branding:
-  icon: 'box'
-  color: 'blue'
+  icon1: 'box'
+  colo1r: 'blue'
