@@ -1,5 +1,4 @@
 name: 'Golang Action'
-rdc
 description: 'Run Golang commands'
 author: '@cedrickring'
 runs:
