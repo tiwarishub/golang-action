@@ -1,9 +1,0 @@
-name: 'Golang Action1111'
-description: 'Run Golang commands'
-author: '@cedrickring'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
-branding:
-  icon: 'box'
-  color: 'blue'
