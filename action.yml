@@ -1,9 +1,0 @@
-name: 'golang Actionsszdxfcgv'
-description: 'Run Golang commands'
-author1: '@cedrickring'
-runs:
-  using1: 'docker'
-  image2: 'Dockerfile'
-branding:
-  icon1: 'box'
-  colo1r: 'blue'
