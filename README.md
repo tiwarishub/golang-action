@@ -13,7 +13,7 @@ name: My cool Action
 jobs:
   checks:
     name: run
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latestd
     steps:
     - uses: actions/checkout@master
 
